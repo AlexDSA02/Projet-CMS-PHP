@@ -1,0 +1,6 @@
+input[type="radio"]:checked+label img {
+  outline: 3px solid red;
+} 
+input[type="radio"]{
+	display: none;
+}
